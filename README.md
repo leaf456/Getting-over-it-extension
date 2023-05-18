@@ -1,4 +1,4 @@
-# Getting-over-it-extension
+# Getting over it extension
 A turbowarp packed version of griffpatches port of getting over it, in an extension.
 
 I made this extension a really long time ago so the code is really bad, but feel free to take a look at my spaghetti if you want.
