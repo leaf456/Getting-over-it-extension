@@ -1,0 +1,72 @@
+<!doctype html>
+<html>
+  <head>
+	<style>
+	.btn {
+	background-color: orange;
+	border-radius: 5px;
+	width: 300px;
+	height: 25px;
+	border: inset 2px;
+	font-size: 12px;
+	}
+	.btn:hover {
+	background-color: #ff8c00;
+	border: inset 3px;
+	height: 35px;
+	width: 320px;
+	font-size: 15px;
+	}
+	.btn2 {
+	background-color: orange;
+	border-radius: 5px;
+	width: 300px;
+	height: 25px;
+	border: inset 2px;
+	font-size: 12px;
+	}
+	</style>
+	<style id="sty5">
+	.btn2:hover {
+	background-color: #ff8c00;
+	border: inset 3px;
+	height: 35px;
+	width: 320px;
+	font-size: 15px;
+	}
+	p { margin:0 }
+	</style>
+    <title>getting over it launcher v1.2</title>
+  </head>
+  <body id="back" style="margin: 0; padding: 0;  background-image: url('image.png')">
+  <div style="height: 400px; width: 340px;">
+	<center><strong><h2>Getting over it</h2></strong>
+	<strong><p>Scratch edition, ported by Griffpatch. Select a button below to lanch the game.</p></strong>
+	<button id="smolio" class="btn">Open in a small window</button>
+	<button id="meduim" class="btn">Open in a medium size window</button>
+	<button id="large" class="btn">Open in a full size window</button>
+	<button id="custombutton" class="btn">Open in custom size: </button>
+	<input id="inx" class="btn" placeholder="width" type="number"></input><input id="iny" class="btn" placeholder="height" type="number"></input>
+	<strong><p>Extension made by Chowder Fish, Game is by Griffpatch.</p></strong>
+	<strong><p>Links:</p></strong>
+	<strong><a href="https://scratch.mit.edu/users/griffpatch/" id="link1">Griffpatch</a>
+	<a href="https://ourplatformer.000webhostapp.com/" id="link2">Chowder fish</a></center></strong>
+	<div id="news" style="overflow:auto; height:50px;"><h1>loading news...</h1></div>
+	<div id="change" style="overflow:auto; height:100px;">
+	<h1>Changelog</h1>
+	<h3>Updates will be put here.</h3>
+	<p>2/2/2022: Added news feature.</p>
+	<p>14/10/2021: Fixed links.</p>
+	<p>3/10/2021: Added tips AND an easter egg.</p>
+	<p>2/10/2021: Fullscreen mode, press "f". Added credits.</p>
+	<p>2/10/2021: Added custom size option and optimised extension.</p>
+	<p>11/9/2021: Made launcher look better and Offline compatabilty!</p>
+	<p>10/9/2021: Initial release.</p>
+	<center><button id="creds" class="btn">View credits</button></center>
+	<br>
+	</div>
+	<strong><center><p id="tips"></p></center></strong>
+  </div>
+  <script src="popup.js"></script>
+  </body>
+</html>

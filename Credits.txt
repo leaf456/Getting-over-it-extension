@@ -1,0 +1,44 @@
+--Credits--
+Original game: getting over it with bennet foddy
+Scratch edition: made by griffpatch, published on scratch.mit.edu.
+Compiled by turbowarp.org, made by garbomuffin and others.
+Turbowarp is the succeser of forkphorus, forkphorus.github.io.
+Forkphorus is a fork (GiThUb) of phosphorus, a compiler for scratch 2.0.
+See forkphorus.github.io for more information.
+Extension version is produced by chowder fish as a fun project.
+Extension is published by "chrmdev06" on chrome web store.
+Chrome web store extension has been bug fixed by Will.
+Background image is photo edited by chowder fish.
+Original background image is a screenshot from the game.
+--proggramers and their links--
+Garbomuffin: scratch.mit.edu/users/garbomuffin
+Chowder fish: ourplatformer.000webhostapp.com
+Chrmdev06: no website :(
+Bennet foddy: foddy.net
+Chrome web store: https://chrome.google.com/webstore/
+Extension location: https://chrome.google.com/webstore/detail/getting-over-it/lmllgbcnapcbddkhdkmecfhgifgbeagh/
+Scratch: scratch.mit.edu
+Image editor: getpaint.net
+Turbowarp packager: packager.turbowarp.org
+Forkphorus: forkphorus.github.io
+Phosphorus: phosphorus.github.io
+--extra--
+
+
+ ________   _    _             _    _   _   __
+|__   ___| | |___| |    /\    | \  | | | |_/ /
+   | |     |  ___  |   /  \   |  \ | | |    /
+   | |     | |   | |  / /\ \  | | \| | | |\ \
+   |_|     |_|   |_| /_/  \_\ |_|\___| | | \ \
+__  __    ____    _    _   _
+\ \/ /   / __ \  | |  | | | |
+ \  /   / /  \ \ | |  | | |_|
+ | |    \ \__/ / \ \__/ /  _ 
+ |_|     \____/   \____/  |_|
+
+    /\     /\
+    \/     \/
+
+| |             | |
+\ \____________/ /
+ \______________/
